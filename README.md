@@ -2,6 +2,7 @@
   ![](https://komarev.com/ghpvc/?username=PeNgzzzzz&label=Profile%20Visits&color=blue&style=for-the-badge)
   
 <img src="https://github.com/PeNgzzzzz/PeNgzzzzz/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<img src="https://giphy.com/clips/studiosoriginals-hello-hi-welcome-xxPqL4BBV3o46xWT9l" alt="side Image" align="right" width="200" height="auto" />
 </a>
   
   - 🎓 I’m currently an undergraduate CS student at the University of Waterloo
