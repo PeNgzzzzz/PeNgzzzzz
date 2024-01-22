@@ -6,8 +6,8 @@
 </a>
   
   - 🎓 I’m currently an undergraduate CS student at the University of Waterloo
-  - 🌱 I’m currently learning Operating System and Algorithm
-  - 🔭 I’m currently in my 3B study term
+  - 🌱 I’m currently learning AI, Computer Network, and graphics
+  - 🔭 I’m currently in my 4A study term
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: I am a hardcore gamer who was ranked as the Grandmaster in League of Legends and the Global Elite in CSGO
   
